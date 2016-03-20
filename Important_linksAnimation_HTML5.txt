@@ -1,0 +1,25 @@
+Links to all the technologies useful for HTML5 Animations.
+
+
+Canvas Shape Tool
+http://www.uiplayground.in/create-html5-canvas-javascript-drawing-tool/guide.html
+
+http://www.html5canvastutorials.com/tutorials/html5-canvas-arcs/
+
+http://www.victoriakirst.com/beziertool/
+
+https://css-tricks.com/using-svg/
+
+http://createjs.com/downloads
+
+http://www.kirupa.com/html5/animating_many_things_on_a_canvas.htm
+
+http://www.kirupa.com/html5/creating_simple_html5_canvas_animation.htm
+
+this will help in motor spin
+
+http://www.williammalone.com/articles/create-html5-canvas-javascript-sprite-animation/
+
+will help in water flow
+
+http://tutorials.jenkov.com/html5-canvas/animation.html
